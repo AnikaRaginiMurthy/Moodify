@@ -1,0 +1,3 @@
+[submodule "projects/chatbot-backend"]
+	path = projects/chatbot-backend
+	url = https://github.com/AnikaRaginiMurthy/moodify-chatbot-backend.git
